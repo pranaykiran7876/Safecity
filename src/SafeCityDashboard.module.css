@@ -1,4 +1,4 @@
-/* SafeCityDashboard.module.css */
+
 
 .safeCityApp {
   display: flex;
@@ -56,7 +56,6 @@
   background: #fff;
 }
 
-/* Sidebar */
 
 .sidebar {
   width: 220px;
@@ -92,7 +91,7 @@
   font-weight: 700;
 }
 
-/* Main Content Area */
+
 
 .mainContentArea {
   flex: 1;
@@ -187,7 +186,7 @@
   outline: none;
 }
 
-/* Page Content */
+
 
 .pageContent {
   background: #f8fafb;
@@ -321,7 +320,7 @@
   font-size: 1rem;
 }
 
-/* Modal */
+
 
 .modalOverlay {
   position: fixed;
@@ -348,7 +347,7 @@
   color: #034663;
 }
 
-/* Responsive */
+
 
 @media (max-width: 900px) {
   .sidebar {
