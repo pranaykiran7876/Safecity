@@ -167,7 +167,7 @@ function Overview() {
 }
 
 function Resources() {
-  // Example categorized resources data
+  
   const resourceCategories = {
     MentalHealth: [
       { name: "MindCare Support", contact: "mindcare@example.com" },
